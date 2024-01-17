@@ -1,42 +1,40 @@
-<h1 align="center"> Portifólio </h1>
+<h1 align="center"> Organo </h1>
 
 <p align="center">
-Desafio gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="./.github/preview.jpeg">
+  <img alt="License" src="./.github/banner.png">
 </p>
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - JavaScript
+- React e JSX
+- Vite
 - Git e GitHub
 
-## 💻 Projeto
+## 💻 Project
 
-Este projeto exibe as informações de alguém para recrutadores, em outras palavras, um portifólio
+Organo is an organogram; an organogram is a graphical representation of an organization's structure
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://nesdark.github.io/portifolio/).
+You can access the view through this [link](https://celadon-beignet-7d8bb0.netlify.app).
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT license
 
 ---
 
-Feito com ♥ by Christian :wave: [Participe da comunidade de Devs da Rocketseat ](https://discord.gg/rocketseat)
+Made with ♥ by Chris :wave:
